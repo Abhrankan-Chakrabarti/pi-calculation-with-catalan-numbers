@@ -8,11 +8,11 @@ Calculating the digits of π has been a topic of interest for mathematicians and
 
 ## Algorithm
 
-The series representation used in this algorithm is:
+The series representation used in my algorithm is:
 
-\[ \pi = 3 + 6 \sum_{n=1}^{\infty} \frac{(2n - 1) \cdot C_n}{(2n + 1) \cdot 16^n} \]
+![equation](https://latex.codecogs.com/svg.latex?%5Cpi%20%3D%203%20%2B%206%20%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B%282n%20-%201%29%20%5Ccdot%20C_%7Bn-1%7D%7D%7B%282n%20%2B%201%29%20%5Ccdot%2016%5En%7D)
 
-Where \( C_n \) is the nth Catalan number.
+Where ![C_n](https://latex.codecogs.com/svg.latex?C_n) is the nth Catalan number.
 
 ## Implementation
 
