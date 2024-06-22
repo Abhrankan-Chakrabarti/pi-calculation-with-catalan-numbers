@@ -10,9 +10,9 @@ Calculating the digits of π has been a topic of interest for mathematicians and
 
 The series representation used in my algorithm is:
 
-![series](https://latex.codecogs.com/jpg.latex?%5Cpi%20%3D%203%20%2B%206%20%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B%282n%20-%201%29%20%5Ccdot%20C_%7Bn-1%7D%7D%7B%282n%20%2B%201%29%20%5Ccdot%2016%5En%7D)
+![series](https://latex.codecogs.com/jpg.image?%5Cpi%20%3D%203%20%2B%206%20%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%20%5Cfrac%7B%282n%20-%201%29%20%5Ccdot%20C_%7Bn-1%7D%7D%7B%282n%20%2B%201%29%20%5Ccdot%2016%5En%7D)
 
-Where ![C_n](https://latex.codecogs.com/jpg.latex?C_n) is the nth Catalan number.
+Where ![C_n](https://latex.codecogs.com/jpg.image?C_n) is the nth Catalan number.
 
 ## Implementation
 
