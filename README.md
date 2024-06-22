@@ -1,6 +1,6 @@
-# π Calculation with Catalan Numbers
+# Catalan π Algorithm
 
-This repository contains a Python script to calculate the digits of π using Catalan numbers and fixed-point arithmetic.
+This repository contains an implementation of a newly discovered algorithm for calculating the digits of π using Catalan numbers, derived from \( 6 \arcsin(0.5) \). The algorithm uses high-precision arithmetic and optimized series summation to achieve efficient computation.
 
 ## Introduction
 
