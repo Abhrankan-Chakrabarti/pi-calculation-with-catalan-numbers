@@ -1,6 +1,6 @@
 # Catalan π Algorithm
 
-This repository contains an implementation of a newly discovered algorithm for calculating the digits of π using Catalan numbers, derived from ![6 arcsin(0.5)](https://latex.codecogs.com/svg.latex?6%20%5Carcsin%280.5%29). The algorithm uses high-precision arithmetic and optimized series summation to achieve efficient computation.
+This repository contains an implementation of a newly discovered algorithm for calculating the digits of π using Catalan numbers, derived from ![6 \arcsin(0.5)](https://latex.codecogs.com/svg.latex?6%20%5Carcsin%280.5%29). The algorithm uses high-precision arithmetic and optimized series summation to achieve efficient computation.
 
 ## Introduction
 
